@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Log out</name>
+   <tag></tag>
+   <elementGuidId>94154a5f-6b90-45ca-9059-907d6635d7c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary-light</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a27b9748-e4d4-4160-90e2-61a7a040a7b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary-light</value>
+      <webElementGuid>3d1cf047-6b40-4cdb-95e8-2faa206caffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cef5e2ba-89fd-452f-a105-f2cd2a244ba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>event.preventDefault();
+                    document.getElementById('logout-form').submit();</value>
+      <webElementGuid>21bbbe4e-c0b0-47be-9b93-83d4eda62f63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Log out
+                    </value>
+      <webElementGuid>fb620c3b-ae4c-4cb8-856b-88ae8f928071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pageWrapper&quot;)/div[@class=&quot;page-main-header&quot;]/div[@class=&quot;main-header-right row m-0&quot;]/div[@class=&quot;nav-right col pull-right right-menu p-0&quot;]/ul[@class=&quot;nav-menus&quot;]/li[@class=&quot;onhover-dropdown p-0&quot;]/button[@class=&quot;btn btn-primary-light&quot;]</value>
+      <webElementGuid>891ed93f-5cf9-46c7-a295-dbeda81c90eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>a4bd157e-5dd9-43d6-8884-cac3a8c1e0b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pageWrapper']/div/div/div[2]/ul/li[3]/button</value>
+      <webElementGuid>74f0ab8e-e0ae-4814-92b9-53da1103a67a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>01c34889-43a9-40b7-a4a9-d6522cff0f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                        Log out
+                    ' or . = '
+                        Log out
+                    ')]</value>
+      <webElementGuid>9059ab48-8545-4c34-9a1c-a8056b630d13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
