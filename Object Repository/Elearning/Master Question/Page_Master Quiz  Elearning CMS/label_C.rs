@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Branch Active</name>
+   <name>label_C</name>
    <tag></tag>
-   <elementGuidId>44c6e699-32a3-43ee-86ef-5a04f172dcf9</elementGuidId>
+   <elementGuidId>e59eedea-534f-4e08-8f24-6c1c35a3b9e5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#formAdd > div.modal-body > div.form-check</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='formAdd']/div[2]/div[4]</value>
+         <value>//form[@id='formAdd']/div[2]/div[5]/div/label[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,16 +21,16 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>e63b2232-e29c-45d7-9bed-d4612fca9176</webElementGuid>
+      <value>label</value>
+      <webElementGuid>173e68a6-2914-41b8-b870-a467acc0a9e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-check</value>
-      <webElementGuid>334a1799-4bec-488e-89b3-4165040e9ffe</webElementGuid>
+      <value>radiolabel</value>
+      <webElementGuid>28a1e966-0a6b-402d-bc7d-c9139d889c61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,53 +38,44 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                
-                
-                      Active
-                
-            </value>
-      <webElementGuid>db5beb89-a195-4962-91ff-b05ca321ba7c</webElementGuid>
+                        
+                        C</value>
+      <webElementGuid>bbe83406-6804-4ffe-802d-6ae8bf95536a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;formAdd&quot;)/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form-check&quot;]</value>
-      <webElementGuid>d73fcc7d-b52d-43b1-b96d-2b321a52f1dd</webElementGuid>
+      <value>id(&quot;formAdd&quot;)/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col&quot;]/label[@class=&quot;radiolabel&quot;]</value>
+      <webElementGuid>cc2b6750-760c-4206-9de4-eb445c34d956</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='formAdd']/div[2]/div[4]</value>
-      <webElementGuid>5c028982-cbf3-4c95-9ff5-949ff4c37b51</webElementGuid>
+      <value>//form[@id='formAdd']/div[2]/div[5]/div/label[2]</value>
+      <webElementGuid>cbc0a914-c9a8-48c9-9a76-8b2ee397677a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[12]/div/div/form/div[2]/div[4]</value>
-      <webElementGuid>7858101d-1bb4-45c9-8a83-9301c3a30372</webElementGuid>
+      <value>//div[5]/div/label[2]</value>
+      <webElementGuid>e7540b94-5910-472c-a732-18258953c186</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '
-                
-                
-                      Active
-                
-            ' or . = '
-                
-                
-                      Active
-                
-            ')]</value>
-      <webElementGuid>792dc756-ccf9-45b4-ab31-dc72ef26accb</webElementGuid>
+      <value>//label[(text() = '
+                        
+                        C' or . = '
+                        
+                        C')]</value>
+      <webElementGuid>406676a4-f984-4a17-a6d0-aae7a060a4ed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Master Elearning</name>
+   <name>input_Title_isActive</name>
    <tag></tag>
-   <elementGuidId>0d577402-8100-46ae-b1ce-2a9c149d4e5e</elementGuidId>
+   <elementGuidId>1f62074d-2f80-49f6-ac5a-81041c9c38c1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#isActiveAdd</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mainnav']/ul/li[3]/a</value>
+         <value>//input[@id='isActiveAdd']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,77 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>7ec1f0b5-c458-4a06-91cb-bccd910105cd</webElementGuid>
+      <value>input</value>
+      <webElementGuid>c3560bd0-0851-459e-9c45-67154684224d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-link menu-title link-nav </value>
-      <webElementGuid>4d5e2541-853b-46aa-bf24-805d4bb45253</webElementGuid>
+      <value>form-check-input</value>
+      <webElementGuid>e28e9e95-e567-4c1d-ac77-e1df90c2ca6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>type</name>
       <type>Main</type>
-      <value>http://130.211.243.37:96/elearning</value>
-      <webElementGuid>03ced7e6-dee2-4e74-8ac0-f156e018fec5</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>3206ef32-e36e-4888-963c-3ad692eda8f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>name</name>
       <type>Main</type>
-      <value>
-                                Master Elearning
-                            </value>
-      <webElementGuid>4a28ab3a-a212-4267-b09e-ad27402cf6f2</webElementGuid>
+      <value>isActive</value>
+      <webElementGuid>d500bd13-1294-4744-93a7-1d77a7168196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>isActiveAdd</value>
+      <webElementGuid>fde5d398-c255-4924-89af-588bcfed916b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mainnav&quot;)/ul[@class=&quot;nav-menu custom-scrollbar&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;nav-link menu-title link-nav&quot;]</value>
-      <webElementGuid>350cbb99-f6a4-4e78-8360-d4c380f06cf2</webElementGuid>
+      <value>id(&quot;isActiveAdd&quot;)</value>
+      <webElementGuid>8ad0885d-957d-4854-ba8d-5765b2537f9a</webElementGuid>
    </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='isActiveAdd']</value>
+      <webElementGuid>2a89cb72-1d18-4fd3-b69d-54e9f4703920</webElementGuid>
+   </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mainnav']/ul/li[3]/a</value>
-      <webElementGuid>efac449e-654c-43cc-a986-111f982b7a04</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[@href='http://130.211.243.37:96/elearning']</value>
-      <webElementGuid>faee7515-01bb-4d15-bac3-58e2182aab0e</webElementGuid>
+      <value>//form[@id='formAdd']/div[2]/div[4]/input</value>
+      <webElementGuid>c7c17ffa-3284-47ec-b29f-8ddf0655a6c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/a</value>
-      <webElementGuid>5f31d096-2725-45c6-ab0b-b80b0fd55cef</webElementGuid>
+      <value>//div[7]/div/div/form/div[2]/div[4]/input</value>
+      <webElementGuid>45fc2126-3adb-411c-ab03-3ce0e3bf288c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://130.211.243.37:96/elearning' and (text() = '
-                                Master Elearning
-                            ' or . = '
-                                Master Elearning
-                            ')]</value>
-      <webElementGuid>b12bb7fa-1686-4bf5-8b33-31d8a6a0344a</webElementGuid>
+      <value>//input[@type = 'checkbox' and @name = 'isActive' and @id = 'isActiveAdd']</value>
+      <webElementGuid>8782e652-e6e7-4a42-8a3d-b5c662be6c10</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

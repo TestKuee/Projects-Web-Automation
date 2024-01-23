@@ -19,26 +19,27 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Elearning - Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Elearning/Page_Home  Elearning CMS/a_Master Elearning'))
+WebUI.click(findTestObject('Elearning/Master Question/Page_Home  Elearning CMS/a_Master Question'))
 
-WebUI.click(findTestObject('Elearning/Page_Master Elearning  Elearning CMS/Page Branch 1                                                                                                       Level'))
+WebUI.click(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/button_Tambah Question'))
 
-WebUI.click(findTestObject('Elearning/Page_Master Elearning  Elearning CMS/Add Branch                                                     Branch'))
+WebUI.selectOptionByIndex(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Level'), 1)
 
-WebUI.click(findTestObject('Elearning/Page_Master Elearning  Elearning CMS/Page Add Branch'))
+WebUI.selectOptionByIndex(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Module'), '0')
 
-WebUI.setText(findTestObject('Elearning/Page_Master Elearning  Elearning CMS/Branch Nama'), 'hardy')
+WebUI.setText(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Chapter'), '0')
 
-WebUI.setText(findTestObject('Elearning/Page_Master Elearning  Elearning CMS/Branch Kode Instansi Branch'), 'iglo')
+WebUI.setText(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Question_desc'), 'OK')
 
-WebUI.selectOptionByIndex(findTestObject('Elearning/Page_Login  Elearning CMS/Page_Master Elearning  Elearning CMS/Branch PIC Raihan'), 
-    'Raihan - Indocyber')
+WebUI.setText(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Option A'), '')
 
-WebUI.click(findTestObject('Elearning/Page_Master Elearning  Elearning CMS/Branch Active'))
+WebUI.setText(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Option B'), '')
 
-WebUI.click(findTestObject('Elearning/Page_Master Elearning  Elearning CMS/button_Save'))
+WebUI.setText(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/C'), '')
 
-WebUI.verifyElementPresent(findTestObject('Elearning/Page_Master Elearning  Elearning CMS/Branch Berhasil Disimpan'), 0)
+WebUI.setText(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Option D'), '')
 
-WebUI.rightClick(findTestObject(null))
+WebUI.click(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/label_B'))
+
+WebUI.click(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Active Checklist'))
 

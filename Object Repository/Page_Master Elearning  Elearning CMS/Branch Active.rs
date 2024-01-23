@@ -3,7 +3,7 @@
    <description></description>
    <name>Branch Active</name>
    <tag></tag>
-   <elementGuidId>44c6e699-32a3-43ee-86ef-5a04f172dcf9</elementGuidId>
+   <elementGuidId>cfdd87dc-235a-4dc4-9a94-9f36a42b75ff</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e63b2232-e29c-45d7-9bed-d4612fca9176</webElementGuid>
+      <webElementGuid>ff7ab49b-7e6b-48c5-9597-65d9bb924bfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check</value>
-      <webElementGuid>334a1799-4bec-488e-89b3-4165040e9ffe</webElementGuid>
+      <webElementGuid>8c060fb9-571e-4b52-a475-f17c1bfbf68e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,7 +43,7 @@
                       Active
                 
             </value>
-      <webElementGuid>db5beb89-a195-4962-91ff-b05ca321ba7c</webElementGuid>
+      <webElementGuid>b3e64064-cd3a-4f6e-9f58-707799b3f958</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +51,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;formAdd&quot;)/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form-check&quot;]</value>
-      <webElementGuid>d73fcc7d-b52d-43b1-b96d-2b321a52f1dd</webElementGuid>
+      <webElementGuid>aac075bd-b447-426b-b0ce-990880150e40</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -59,7 +59,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='formAdd']/div[2]/div[4]</value>
-      <webElementGuid>5c028982-cbf3-4c95-9ff5-949ff4c37b51</webElementGuid>
+      <webElementGuid>45be1606-7718-44b3-bc5d-52181814b4b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -67,7 +67,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[12]/div/div/form/div[2]/div[4]</value>
-      <webElementGuid>7858101d-1bb4-45c9-8a83-9301c3a30372</webElementGuid>
+      <webElementGuid>70246636-2200-457e-a9c4-893ab0b4210e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
                       Active
                 
             ')]</value>
-      <webElementGuid>792dc756-ccf9-45b4-ab31-dc72ef26accb</webElementGuid>
+      <webElementGuid>060c173a-13be-4884-910a-ae859e921963</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

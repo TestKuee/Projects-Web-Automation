@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Branch Active</name>
+   <name>span_Recruitment</name>
    <tag></tag>
-   <elementGuidId>44c6e699-32a3-43ee-86ef-5a04f172dcf9</elementGuidId>
+   <elementGuidId>7d065e67-4f5d-4b30-84ec-bc8b50b8f494</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#formAdd > div.modal-body > div.form-check</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='formAdd']/div[2]/div[4]</value>
+         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[5]/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,70 +21,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>e63b2232-e29c-45d7-9bed-d4612fca9176</webElementGuid>
+      <value>span</value>
+      <webElementGuid>dcdd71a2-f24c-4c69-bd6d-60db28cb592e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-check</value>
-      <webElementGuid>334a1799-4bec-488e-89b3-4165040e9ffe</webElementGuid>
+      <value>oxd-text oxd-text--span oxd-main-menu-item--name</value>
+      <webElementGuid>06e43bfa-985d-41b2-8260-e32a40da12d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                
-                
-                      Active
-                
-            </value>
-      <webElementGuid>db5beb89-a195-4962-91ff-b05ca321ba7c</webElementGuid>
+      <value>Recruitment</value>
+      <webElementGuid>70fc584f-f872-4212-b7cd-6a80a7b219e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;formAdd&quot;)/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form-check&quot;]</value>
-      <webElementGuid>d73fcc7d-b52d-43b1-b96d-2b321a52f1dd</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]/span[@class=&quot;oxd-text oxd-text--span oxd-main-menu-item--name&quot;]</value>
+      <webElementGuid>f8eb5716-84e8-4ca8-a81e-13a646feafd1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='formAdd']/div[2]/div[4]</value>
-      <webElementGuid>5c028982-cbf3-4c95-9ff5-949ff4c37b51</webElementGuid>
+      <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[5]/a/span</value>
+      <webElementGuid>1889d5b9-f279-49ea-aad3-42b0e479b903</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[12]/div/div/form/div[2]/div[4]</value>
-      <webElementGuid>7858101d-1bb4-45c9-8a83-9301c3a30372</webElementGuid>
+      <value>//li[5]/a/span</value>
+      <webElementGuid>fc7ee499-238b-4981-b4ef-43b1c291c072</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '
-                
-                
-                      Active
-                
-            ' or . = '
-                
-                
-                      Active
-                
-            ')]</value>
-      <webElementGuid>792dc756-ccf9-45b4-ab31-dc72ef26accb</webElementGuid>
+      <value>//span[(text() = 'Recruitment' or . = 'Recruitment')]</value>
+      <webElementGuid>1f475a10-524f-4f23-a99d-69aa7dfe7cb6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

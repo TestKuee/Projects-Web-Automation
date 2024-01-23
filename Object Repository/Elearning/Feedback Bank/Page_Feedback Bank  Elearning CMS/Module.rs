@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Branch Box PIC</name>
+   <name>Module</name>
    <tag></tag>
-   <elementGuidId>9c07abf8-249f-4e69-a64a-2a7b7006d3af</elementGuidId>
+   <elementGuidId>e2028a88-53ed-4f71-ac79-8f2955d2591e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>span.select2.select2-container.select2-container--default.select2-container--focus > span.selection > span.select2-selection.select2-selection--single</value>
+         <value>span.select2.select2-container.select2-container--default.select2-container--below.select2-container--focus > span.selection > span.select2-selection.select2-selection--single</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='formAdd']/div[2]/div[3]/span/span/span</value>
+         <value>//form[@id='formAdd']/div[2]/div[2]/span/span/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ec8ec961-3ead-4332-bf86-f3f372af7350</webElementGuid>
+      <webElementGuid>53063061-46c1-489b-8f4a-d0411b4d8a61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection select2-selection--single</value>
-      <webElementGuid>f17413d3-eacc-4f2b-a944-cba657a13194</webElementGuid>
+      <webElementGuid>cd2fa740-79a8-4fe2-b9b2-bfdbf4c71086</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>c1da738a-3f5b-4f7e-bf25-7e785aceb43f</webElementGuid>
+      <webElementGuid>03b1bce6-df26-46a1-8c4f-fdb45b96427d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>feea639b-7d89-450a-bb56-385a368efbe1</webElementGuid>
+      <webElementGuid>8c061664-48f4-42ab-96d0-303473cf7aed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8f4a3b8b-1df6-4656-a8d8-29a5a5aabbb8</webElementGuid>
+      <webElementGuid>0fcb7eb3-656e-40f9-92d7-eb3509d67a7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,54 +62,54 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>30bc45cb-e246-4db0-9cdc-a5b411fa6c28</webElementGuid>
+      <webElementGuid>1ee3abbb-4596-4649-b0be-5aaedac6fe9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-labelledby</name>
       <type>Main</type>
-      <value>select2-picAdd-container</value>
-      <webElementGuid>4725a530-29eb-4ce1-8242-f2a35281fa18</webElementGuid>
+      <value>select2-moduleIdAdd-container</value>
+      <webElementGuid>963b48f5-2719-4b20-b1d8-7b1623f9c12d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>-- Choose PIC --</value>
-      <webElementGuid>ecac3917-8594-4f30-9c0b-e0f63236703b</webElementGuid>
+      <value>×Module 1</value>
+      <webElementGuid>fe83d102-2e78-4484-b3af-0410b29ad4a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;formAdd&quot;)/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form-group&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]</value>
-      <webElementGuid>f5f9dbf8-cd22-43ae-8422-4df1af9239ee</webElementGuid>
+      <value>id(&quot;formAdd&quot;)/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form-group&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]</value>
+      <webElementGuid>e0f7e149-8266-48c3-b6b2-ba8b8edfb420</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='formAdd']/div[2]/div[3]/span/span/span</value>
-      <webElementGuid>c2d310f6-ec6e-4573-aa9a-c6864122a480</webElementGuid>
+      <value>//form[@id='formAdd']/div[2]/div[2]/span/span/span</value>
+      <webElementGuid>2108ea4b-9311-4074-8bfb-d7060e5f0406</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/span/span/span</value>
-      <webElementGuid>6d324814-b839-412c-ac31-6ef6769a85dc</webElementGuid>
+      <value>//div[2]/span/span/span</value>
+      <webElementGuid>6f748fa4-5b02-4d3a-99ac-f8c369fa9ac8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = '-- Choose PIC --' or . = '-- Choose PIC --')]</value>
-      <webElementGuid>27952878-f9e8-45b0-a971-d4a2d62705d6</webElementGuid>
+      <value>//span[(text() = '×Module 1' or . = '×Module 1')]</value>
+      <webElementGuid>51574153-5b80-4c01-9960-713a2ba48cd2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

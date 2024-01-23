@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Branch Input PIC  Eric</name>
+   <name>search_value</name>
    <tag></tag>
-   <elementGuidId>1038ad3f-ca22-435e-9c43-96a38d74ac13</elementGuidId>
+   <elementGuidId>2408a947-709b-4b94-9b7b-d05af3baef7a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='search'])[6]</value>
+         <value>(//input[@type='search'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8a17cb50-875d-495c-943f-f54a749a819c</webElementGuid>
+      <webElementGuid>eee92cdc-e9ed-4435-8b70-affd243da568</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-search__field</value>
-      <webElementGuid>7f52050f-b9a8-4f4d-bffa-1a88240151fd</webElementGuid>
+      <webElementGuid>b3351b34-2668-4c4d-b531-bff72c54eff6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>77783ec1-096d-4a8a-863d-ffd98b849c76</webElementGuid>
+      <webElementGuid>9b3c79e9-f480-4cf4-a589-ee79eefeeef4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>6c9d9e4b-b4fb-41e1-8b32-85b9c723fc1e</webElementGuid>
+      <webElementGuid>f827dcea-b456-45f3-b537-d2dd07a24108</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>339eae61-c560-4a68-ab27-5ea87ac06897</webElementGuid>
+      <webElementGuid>081a03b2-a3fb-4a94-a6c4-6a559c755f95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>5071ab77-8387-4e1f-9a7f-c886ee33e185</webElementGuid>
+      <webElementGuid>cb25431b-3672-43f5-ab7e-f5ee80ddf0a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>94ff8bd1-ec43-4839-9892-3c5077cc7510</webElementGuid>
+      <webElementGuid>6e3c1ba5-303e-4d40-bc34-e66fb6003e97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3678e2d7-1943-4ec7-b6d8-07e83826dcbf</webElementGuid>
+      <webElementGuid>c590a2fc-f2e9-4245-98c4-192012578562</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,31 +86,31 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>90041436-caa1-4740-a3c4-bd1388b987b7</webElementGuid>
+      <webElementGuid>6b6428e9-0592-4b3f-a509-5b1f414a0198</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;modalAdd&quot;)/span[@class=&quot;select2-container select2-container--default select2-container--open&quot;]/span[@class=&quot;select2-dropdown select2-dropdown--above&quot;]/span[@class=&quot;select2-search select2-search--dropdown&quot;]/input[@class=&quot;select2-search__field&quot;]</value>
-      <webElementGuid>f1023833-a1ec-4ca2-93db-8401b3b3e78b</webElementGuid>
+      <value>id(&quot;formAdd&quot;)/span[@class=&quot;select2-container select2-container--default select2-container--open&quot;]/span[@class=&quot;select2-dropdown select2-dropdown--below&quot;]/span[@class=&quot;select2-search select2-search--dropdown&quot;]/input[@class=&quot;select2-search__field&quot;]</value>
+      <webElementGuid>959ff63e-1b80-4ab0-81de-85f05a85480e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@type='search'])[6]</value>
-      <webElementGuid>627d8180-c984-4170-a259-00f0792559ee</webElementGuid>
+      <value>(//input[@type='search'])[2]</value>
+      <webElementGuid>932f768f-0917-4794-940d-4013049b7774</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='modalAdd']/span/span/span/input</value>
-      <webElementGuid>3cc40c35-0af3-4b00-8cfc-a00913bf5e88</webElementGuid>
+      <value>//form[@id='formAdd']/span/span/span/input</value>
+      <webElementGuid>8b297e88-c7fb-46c9-892f-592d82ec2da5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>90a0b1af-e61e-4a76-84ca-739bd3a3482c</webElementGuid>
+      <webElementGuid>56c1c794-5602-4ba8-8232-cd40e2a0ac67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'search']</value>
-      <webElementGuid>60c5ad5a-93f2-4b9c-a144-17e4b58822ca</webElementGuid>
+      <webElementGuid>b3f32efc-c6ae-47b2-a46e-fbfcfe169599</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

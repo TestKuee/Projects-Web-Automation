@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Branch Eric Contana</name>
+   <name>Question_desc</name>
    <tag></tag>
-   <elementGuidId>5405dc22-bf49-498f-9462-5352f168a21b</elementGuidId>
+   <elementGuidId>0cbe46e1-8cda-4ce6-b314-8de79ec3e81d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#select2-picAdd-container</value>
+         <value>#descAdd</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='select2-picAdd-container']</value>
+         <value>//textarea[@id='descAdd']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>fa38d024-7147-4ae4-a608-6832c6f213d6</webElementGuid>
+      <value>textarea</value>
+      <webElementGuid>69e3bc4b-22de-4244-b166-750ee77f805b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>select2-selection__rendered</value>
-      <webElementGuid>a045ecd0-f2e0-46de-a95f-f98446635786</webElementGuid>
+      <value>form-control</value>
+      <webElementGuid>7aeeb396-611f-4eb9-b9dc-5b834c112b81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>desc</value>
+      <webElementGuid>ab21e62b-7a23-4169-aff9-5c4eea7c98d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>select2-picAdd-container</value>
-      <webElementGuid>6595d568-f600-4d5c-8b6c-203f6d8e51a1</webElementGuid>
+      <value>descAdd</value>
+      <webElementGuid>6ef10a8b-a046-4472-a74b-5cff0e8f4505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>91dfb088-074d-490b-adb5-4ca6ec5c131d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>450</value>
+      <webElementGuid>6419b462-38b0-48d5-af6c-d7a20831e276</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>placeholder</name>
       <type>Main</type>
-      <value>Eric Cantona - iglo</value>
-      <webElementGuid>1c5a2931-a07f-4603-8112-b2f3ebb90b34</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Eric Cantona - iglo</value>
-      <webElementGuid>bc5ccbcc-db76-4bb7-bce2-4bdc237df05c</webElementGuid>
+      <value>Question</value>
+      <webElementGuid>d391c762-7343-4a20-b1ef-d3313fbb7d7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select2-picAdd-container&quot;)</value>
-      <webElementGuid>27e5603b-7fd0-42da-b873-eafdad1bc4f6</webElementGuid>
+      <value>id(&quot;descAdd&quot;)</value>
+      <webElementGuid>7d783dee-502d-49d3-89ae-c33bc80a740c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//span[@id='select2-picAdd-container']</value>
-      <webElementGuid>077276a7-1245-42d7-975b-3c44150e36f1</webElementGuid>
+      <value>//textarea[@id='descAdd']</value>
+      <webElementGuid>ff98eab0-b841-45f6-8145-7656b8853c6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='formAdd']/div[2]/div[3]/span/span/span/span</value>
-      <webElementGuid>cf3a6802-f41b-4dc4-bd26-9dfecdf277e5</webElementGuid>
+      <value>//form[@id='formAdd']/div[2]/div[2]/div[2]/div/textarea</value>
+      <webElementGuid>ed155e9f-01fe-4793-bed4-0b70bbc25eb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/span/span/span/span</value>
-      <webElementGuid>9c1fd994-9571-465b-9c36-c518e94387be</webElementGuid>
+      <value>//textarea</value>
+      <webElementGuid>6c393d9c-6bb6-4ff2-a0b0-d2b035bbdf67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[@id = 'select2-picAdd-container' and @title = 'Eric Cantona - iglo' and (text() = 'Eric Cantona - iglo' or . = 'Eric Cantona - iglo')]</value>
-      <webElementGuid>8e71f96b-d584-49ef-b933-69e458d32323</webElementGuid>
+      <value>//textarea[@name = 'desc' and @id = 'descAdd' and @placeholder = 'Question']</value>
+      <webElementGuid>61074eb1-5ce3-4fc4-a3cf-e2b7e4561f66</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

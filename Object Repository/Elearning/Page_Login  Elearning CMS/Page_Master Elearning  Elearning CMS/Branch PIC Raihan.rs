@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Master Elearning</name>
+   <name>Branch PIC Raihan</name>
    <tag></tag>
-   <elementGuidId>0d577402-8100-46ae-b1ce-2a9c149d4e5e</elementGuidId>
+   <elementGuidId>6b216276-1ea0-482d-93d7-6d45bcf8348b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#select2-picAdd-container</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mainnav']/ul/li[3]/a</value>
+         <value>//span[@id='select2-picAdd-container']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,77 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>7ec1f0b5-c458-4a06-91cb-bccd910105cd</webElementGuid>
+      <value>span</value>
+      <webElementGuid>7e6292bc-4be2-421e-a183-a33f66d73176</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-link menu-title link-nav </value>
-      <webElementGuid>4d5e2541-853b-46aa-bf24-805d4bb45253</webElementGuid>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>8984d12a-876d-4764-b415-1bc0ae0dfe1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>id</name>
       <type>Main</type>
-      <value>http://130.211.243.37:96/elearning</value>
-      <webElementGuid>03ced7e6-dee2-4e74-8ac0-f156e018fec5</webElementGuid>
+      <value>select2-picAdd-container</value>
+      <webElementGuid>e9fb3e53-ce5c-477b-82d7-0bab843ea866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Raihan - Indocyber</value>
+      <webElementGuid>77c5bb93-9467-4b05-a57d-821092ce1465</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                                Master Elearning
-                            </value>
-      <webElementGuid>4a28ab3a-a212-4267-b09e-ad27402cf6f2</webElementGuid>
+      <value>Raihan - Indocyber</value>
+      <webElementGuid>9533897a-6ac6-47a5-a64a-d83f69550855</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mainnav&quot;)/ul[@class=&quot;nav-menu custom-scrollbar&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;nav-link menu-title link-nav&quot;]</value>
-      <webElementGuid>350cbb99-f6a4-4e78-8360-d4c380f06cf2</webElementGuid>
+      <value>id(&quot;select2-picAdd-container&quot;)</value>
+      <webElementGuid>cd083742-7c95-4884-99d8-107e5f4a9b90</webElementGuid>
    </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-picAdd-container']</value>
+      <webElementGuid>b51800b2-df6b-4384-b601-d5eec77c0de4</webElementGuid>
+   </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mainnav']/ul/li[3]/a</value>
-      <webElementGuid>efac449e-654c-43cc-a986-111f982b7a04</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[@href='http://130.211.243.37:96/elearning']</value>
-      <webElementGuid>faee7515-01bb-4d15-bac3-58e2182aab0e</webElementGuid>
+      <value>//form[@id='formAdd']/div[2]/div[3]/span/span/span/span</value>
+      <webElementGuid>eedc1cb5-67f0-4aa5-bfd5-12cec91129a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/a</value>
-      <webElementGuid>5f31d096-2725-45c6-ab0b-b80b0fd55cef</webElementGuid>
+      <value>//div[3]/span/span/span/span</value>
+      <webElementGuid>0adca5fe-47f0-4c62-9ce6-5f410d67b403</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://130.211.243.37:96/elearning' and (text() = '
-                                Master Elearning
-                            ' or . = '
-                                Master Elearning
-                            ')]</value>
-      <webElementGuid>b12bb7fa-1686-4bf5-8b33-31d8a6a0344a</webElementGuid>
+      <value>//span[@id = 'select2-picAdd-container' and @title = 'Raihan - Indocyber' and (text() = 'Raihan - Indocyber' or . = 'Raihan - Indocyber')]</value>
+      <webElementGuid>99ccd5bb-95d5-49f1-b024-4fc10b1c9ad2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
