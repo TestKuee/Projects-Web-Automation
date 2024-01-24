@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Recruitment</name>
+   <name>Button Profile</name>
    <tag></tag>
-   <elementGuidId>7d065e67-4f5d-4b30-84ec-bc8b50b8f494</elementGuidId>
+   <elementGuidId>c60c9f71-b4a7-4377-a7e9-6e3dcf085b8b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[5]/a/span</value>
+         <key>CSS</key>
+         <value>span.oxd-userdropdown-tab</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,54 +22,54 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>311852a3-b2ea-4066-941b-07bc649e0abb</webElementGuid>
+      <webElementGuid>af8a13a6-704a-4c60-875f-da3ef20130e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-text oxd-text--span oxd-main-menu-item--name</value>
-      <webElementGuid>8f177a4e-f066-4967-a535-14c1aa1a685f</webElementGuid>
+      <value>oxd-userdropdown-tab</value>
+      <webElementGuid>86923926-4f5b-4749-9401-4714b1df4f6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Recruitment</value>
-      <webElementGuid>f3dda62a-0268-479e-8d7d-ab2056d1d467</webElementGuid>
+      <value>Paul Collings</value>
+      <webElementGuid>0d44356a-3042-4500-aee0-2e7d513de0ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]/span[@class=&quot;oxd-text oxd-text--span oxd-main-menu-item--name&quot;]</value>
-      <webElementGuid>dc0e213a-736c-45de-b499-0915eb524a27</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-header&quot;]/div[@class=&quot;oxd-topbar-header-userarea&quot;]/ul[1]/li[@class=&quot;--active oxd-userdropdown&quot;]/span[@class=&quot;oxd-userdropdown-tab&quot;]</value>
+      <webElementGuid>dd3b4ab4-6f5c-46dd-9960-1227765171a9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[5]/a/span</value>
-      <webElementGuid>d4dbef4e-7d3d-49cc-abd2-bed4b7681066</webElementGuid>
+      <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/span</value>
+      <webElementGuid>6abd18b6-c1c3-40d9-90fb-66ff75be90a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[5]/a/span</value>
-      <webElementGuid>86b713af-0546-4639-91c4-2c7712df9119</webElementGuid>
+      <value>//li/span</value>
+      <webElementGuid>40794597-2280-462d-8ead-3f23219ff10c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Recruitment' or . = 'Recruitment')]</value>
-      <webElementGuid>40833ed2-78d9-4120-840c-3ba8870b8c74</webElementGuid>
+      <value>//span[(text() = 'Paul Collings' or . = 'Paul Collings')]</value>
+      <webElementGuid>f3c86433-882c-4e53-856c-baa3eee7692e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

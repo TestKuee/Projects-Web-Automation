@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>button_Cancel</name>
    <tag></tag>
-   <elementGuidId>db6a4c43-947d-44d7-8bba-88f4840ccf5c</elementGuidId>
+   <elementGuidId>9b4ee3b5-de49-4c93-8104-e48088159c0e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.oxd-button.oxd-button--medium.oxd-button--main.orangehrm-login-button</value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <key>CSS</key>
+         <value>button.oxd-button.oxd-button--medium.oxd-button--ghost</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,70 +22,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0a231443-4ed5-4c71-8e5f-9c893924dd8a</webElementGuid>
+      <webElementGuid>2f5c3479-a594-47d5-b39d-89d5e9eca2c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>588bcea2-5abf-48a1-8d2a-0ffa9ff2b622</webElementGuid>
+      <value>button</value>
+      <webElementGuid>790748b4-8d6c-49a6-b0c7-c5af6083e10a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-button oxd-button--medium oxd-button--main orangehrm-login-button</value>
-      <webElementGuid>193636db-ab68-4d76-a4d8-a8f229fed5f4</webElementGuid>
+      <value>oxd-button oxd-button--medium oxd-button--ghost</value>
+      <webElementGuid>14229a6a-46f0-4487-8f06-9dcdcac62bc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Login </value>
-      <webElementGuid>935f6557-75b1-4903-aa67-f3f3cac2fd99</webElementGuid>
+      <value> Cancel </value>
+      <webElementGuid>98188ed9-0880-4d0b-a47a-1a28ee8bee13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;orangehrm-login-layout&quot;]/div[@class=&quot;orangehrm-login-layout-blob&quot;]/div[@class=&quot;orangehrm-login-container&quot;]/div[@class=&quot;orangehrm-login-slot-wrapper&quot;]/div[@class=&quot;orangehrm-login-slot&quot;]/div[@class=&quot;orangehrm-login-form&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-actions orangehrm-login-action&quot;]/button[@class=&quot;oxd-button oxd-button--medium oxd-button--main orangehrm-login-button&quot;]</value>
-      <webElementGuid>242bb706-edd1-45c1-a786-741b2d18c44c</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-actions&quot;]/button[@class=&quot;oxd-button oxd-button--medium oxd-button--ghost&quot;]</value>
+      <webElementGuid>56c75bdc-5985-442b-b5d0-c2a500769d29</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>9b805f96-7ef7-40fb-be13-51bab257fc55</webElementGuid>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>a7021758-c01e-430b-a97d-6a67bdeddb52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div/div/div/div[2]/div[2]/form/div[3]/button</value>
-      <webElementGuid>f411f367-1720-4d35-8bce-3b47744ac2c9</webElementGuid>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div[3]/button</value>
+      <webElementGuid>fd89e797-7671-4880-af71-9ac5632a38e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>4d29d9ec-c228-4dd5-b684-c46c7de41455</webElementGuid>
+      <value>//div[3]/button</value>
+      <webElementGuid>0e4e4518-f299-4803-bee5-8d7f89edaba3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = ' Login ' or . = ' Login ')]</value>
-      <webElementGuid>ae4b165b-f392-408b-90cd-52c5f6309eb8</webElementGuid>
+      <value>//button[@type = 'button' and (text() = ' Cancel ' or . = ' Cancel ')]</value>
+      <webElementGuid>9a434b64-19b1-41aa-8428-287f29d7168b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

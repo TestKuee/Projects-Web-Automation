@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Page 2 add user</name>
+   <tag></tag>
+   <elementGuidId>68805be8-8fe6-4e36-a649-e48d0e771797</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e4eab9e1-0e83-47e2-b67a-9271add50bbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>b345404c-3992-4af6-ab22-a1e9cb811651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add UserUser Role-- Select --Employee NameStatus-- Select --UsernamePasswordFor a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbersConfirm Password * Required Cancel  Save </value>
+      <webElementGuid>4c5c84f3-0400-49ef-bafe-571fcf52fd83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>96b09de2-f60e-4bad-ac7a-34ced2ae5a02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>b0628bb7-05d9-4ded-8fdf-cd63f8052350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[2]</value>
+      <webElementGuid>f528aefb-65bf-4682-a33c-1479ca46dad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add UserUser Role-- Select --Employee NameStatus-- Select --UsernamePasswordFor a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbersConfirm Password * Required Cancel  Save ' or . = 'Add UserUser Role-- Select --Employee NameStatus-- Select --UsernamePasswordFor a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbersConfirm Password * Required Cancel  Save ')]</value>
+      <webElementGuid>71d28d2c-c0a3-4041-9687-436c1ef464f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

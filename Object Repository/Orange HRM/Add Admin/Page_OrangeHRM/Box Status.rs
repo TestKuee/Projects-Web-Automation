@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Select Job Title</name>
+   <name>Box Status</name>
    <tag></tag>
-   <elementGuidId>39d73e97-4eb3-4aba-bd7e-796d2e800b67</elementGuidId>
+   <elementGuidId>937a5db3-a449-4b81-8d66-a969faf58995</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.oxd-select-text.oxd-select-text--focus</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div/div[3]/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-select-text.oxd-select-text--focus</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8f7fa658-a36e-4379-bb31-79b22a1e1352</webElementGuid>
+      <webElementGuid>46e742bd-4858-4981-8d4a-3f31c2b41e6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-select-text oxd-select-text--focus</value>
-      <webElementGuid>09613555-d5f2-432e-9819-dd67cffe4c49</webElementGuid>
+      <webElementGuid>278f6bf2-cc78-4236-8c30-18280c82a140</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>-- Select --</value>
-      <webElementGuid>c052f2ad-e9b0-4d57-abc0-f8dac9ad6dbf</webElementGuid>
+      <webElementGuid>be58a9bd-e509-497f-9eec-4be2afb6cd4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-2 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/div[@class=&quot;oxd-select-wrapper&quot;]/div[@class=&quot;oxd-select-text oxd-select-text--focus&quot;]</value>
-      <webElementGuid>7a1a4114-e8ac-44c5-a316-560d31e49c96</webElementGuid>
+      <webElementGuid>b550b121-8dfc-4de4-bf1d-1bfeba75edde</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div/div[3]/div/div[2]/div/div</value>
-      <webElementGuid>c539d78c-9945-429c-b3a1-284c75887b68</webElementGuid>
+      <webElementGuid>fb349482-6960-4045-8ac6-501ee7d6e6fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/div/div</value>
-      <webElementGuid>5d5aba85-f479-4de6-a512-80a3d988b115</webElementGuid>
+      <webElementGuid>55adf86d-21f2-48a8-8fbe-e640b0d7e149</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,22 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '-- Select --' or . = '-- Select --')]</value>
-      <webElementGuid>d9f1e548-598d-4ddd-b159-f3c6929ec36b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[2]/form/div/div/div/div/div[2]/div/div</value>
-      <webElementGuid>2b6effb1-97d7-45f0-855b-121958f9a4f8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//form/div/div/div/div/div[2]/div/div</value>
-      <webElementGuid>5c8c087c-8a4c-41b0-8bc8-c59481f6ee60</webElementGuid>
+      <webElementGuid>068b13ce-584f-4552-8a3b-ae9c02c54c16</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

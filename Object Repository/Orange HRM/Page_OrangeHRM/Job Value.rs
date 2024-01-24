@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e8bd941c-6e76-4f33-a985-d9bc56d400ab</webElementGuid>
+      <webElementGuid>5e5b1e73-1d12-4fa6-b10b-e9f6f0787e13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-select-text oxd-select-text--focus</value>
-      <webElementGuid>f0116964-8848-4916-a6dc-42c6cf7cabfc</webElementGuid>
+      <webElementGuid>69495318-dd5e-4113-bd3e-c240ac05b1d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Account Assistant</value>
-      <webElementGuid>fd8a09d2-b905-45a9-91a5-8997938c7286</webElementGuid>
+      <webElementGuid>c854f919-5850-473d-bb58-4f3e4b16bbdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-candidate-page&quot;]/div[@class=&quot;oxd-table-filter&quot;]/div[@class=&quot;oxd-table-filter-area&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-4 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/div[@class=&quot;oxd-select-wrapper&quot;]/div[@class=&quot;oxd-select-text oxd-select-text--focus&quot;]</value>
-      <webElementGuid>b0658d27-5f7e-4b10-99d4-520f804f7b71</webElementGuid>
+      <webElementGuid>496ee13f-a481-434a-b7e0-494bdac99953</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[2]/form/div/div/div/div/div[2]/div/div</value>
-      <webElementGuid>4f30d4c0-9256-450f-81c5-d7c9413bec31</webElementGuid>
+      <webElementGuid>c2768989-08aa-4c35-b29e-1a2df46a710c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/div/div/div[2]/div/div</value>
-      <webElementGuid>1b7c48a5-0a7b-4995-8c84-b93c15fe1721</webElementGuid>
+      <webElementGuid>7be26b7e-d530-496f-b4da-17add78339a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Account Assistant' or . = 'Account Assistant')]</value>
-      <webElementGuid>2cfe7363-5823-4168-ac63-1c3912fa5726</webElementGuid>
+      <webElementGuid>b8201e87-bcaa-4ff6-8e3c-cd5e230b5af3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
