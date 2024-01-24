@@ -19,27 +19,29 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Elearning - Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Elearning/Master Question/Page_Home  Elearning CMS/a_Master Question'))
+WebUI.click(findTestObject('Elearning/Add User/Page_Home  Elearning CMS/a_User List'))
 
-WebUI.click(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/button_Tambah Question'))
+WebUI.click(findTestObject('Elearning/Add User/Page_User List  Elearning CMS/Pg 1'))
 
-WebUI.selectOptionByIndex(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Level'), 1)
+WebUI.click(findTestObject('Elearning/Add User/Page_User List  Elearning CMS/button_Tambah'))
 
-WebUI.selectOptionByIndex(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Module'), '0')
+WebUI.click(findTestObject('Elearning/Add User/Page_User List  Elearning CMS/Pg 2'))
 
-WebUI.setText(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Chapter'), '0')
+WebUI.setText(findTestObject('Elearning/Add User/Page_User List  Elearning CMS/Name'), 'Nely')
 
-WebUI.setText(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Question_desc'), 'OK')
+WebUI.setText(findTestObject('Elearning/Add User/Page_User List  Elearning CMS/Email'), 'Nely@gmail.com')
 
-WebUI.setText(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Option A'), '')
+WebUI.setText(findTestObject('Elearning/Add User/Page_User List  Elearning CMS/Phone'), '087100920191')
 
-WebUI.setText(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Option B'), '')
+WebUI.setText(findTestObject('Elearning/Add User/Page_User List  Elearning CMS/InstanceCode'), '123')
 
-WebUI.setText(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/C'), '')
+WebUI.click(findTestObject('Elearning/Add User/Page_User List  Elearning CMS/Role Btn'))
 
-WebUI.setText(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Option D'), '')
+WebUI.click(findTestObject('Elearning/Add User/Page_User List  Elearning CMS/Role Value Test'))
 
-WebUI.click(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/label_B'))
+WebUI.setEncryptedText(findTestObject('Elearning/Add User/Page_User List  Elearning CMS/Password'), 'YsqIKzHWQwYX7jcwa8U8RQ==')
 
-WebUI.click(findTestObject('Elearning/Master Question/Page_Master Quiz  Elearning CMS/Active Checklist'))
+WebUI.click(findTestObject('Elearning/Add User/Page_User List  Elearning CMS/button_Save'))
+
+WebUI.verifyElementPresent(findTestObject('Elearning/Add User/Page_User List  Elearning CMS/Message Success'), 0)
 

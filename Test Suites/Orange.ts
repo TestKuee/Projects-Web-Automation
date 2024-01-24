@@ -15,14 +15,14 @@
       <guid>8dad8dfb-0a89-49ee-bd4e-59fb23a29e1b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Orange - Login - Failed</testCaseId>
+      <testCaseId>Test Cases/Orange - LoginFail</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>9ae0f8be-2cf4-4c62-94d1-9d2870f833a9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Orange - Login - Passed</testCaseId>
+      <testCaseId>Test Cases/Orange - Loginpass</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

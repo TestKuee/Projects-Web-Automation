@@ -40,5 +40,5 @@ WebUI.click(findTestObject('Elearning/Page_Master Elearning  Elearning CMS/butto
 
 WebUI.verifyElementPresent(findTestObject('Elearning/Page_Master Elearning  Elearning CMS/Branch Berhasil Disimpan'), 0)
 
-WebUI.rightClick(findTestObject(null))
+WebUI.refresh(FailureHandling.STOP_ON_FAILURE)
 

@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Orange - Login - Passed'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Orange - Loginpass'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Orange HRM/Page_OrangeHRM/a_Admin'))
 
