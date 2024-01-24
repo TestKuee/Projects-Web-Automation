@@ -17,17 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Orange - Loginpass'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Org-LGpass'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Orange HRM/Login Logout/Page_OrangeHRM/Button Profile'))
+WebUI.click(findTestObject('Orange HRM/Login Logout/Page/BtnProfile'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Orange HRM/Login Logout/Page_OrangeHRM/List Menu'))
+WebUI.click(findTestObject('Orange HRM/Login Logout/Page/List Menu'))
 
-WebUI.click(findTestObject('Orange HRM/Login Logout/Page_OrangeHRM/a_Logout'))
+WebUI.click(findTestObject('Orange HRM/Login Logout/Page/a_Logout'))
 
-WebUI.verifyElementPresent(findTestObject('Orange HRM/Login Logout/Page_OrangeHRM/Page Login'), 0)
+WebUI.verifyElementPresent(findTestObject('Orange HRM/Login Logout/Page/Pg Login'), 0)
 

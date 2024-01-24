@@ -17,35 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Orange - Loginpass'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Org-LGpass'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Orange HRM/Page_OrangeHRM/a_Admin'))
+WebUI.click(findTestObject('Orange HRM/Pg/a_Admin'))
 
-WebUI.click(findTestObject('Orange HRM/Add Admin/Page_OrangeHRM/Form 1 - system user'))
+WebUI.click(findTestObject('Orange HRM/Add/Page/Form 1 - system user'))
 
-WebUI.click(findTestObject('Orange HRM/Add Admin/Page_OrangeHRM/button_Add'))
+WebUI.click(findTestObject('Orange HRM/Add/Page/button_Add'))
 
-WebUI.click(findTestObject('Orange HRM/Add Admin/Page_OrangeHRM/Page 2 add user'))
+WebUI.click(findTestObject('Orange HRM/Add/Page/Page 2 add user'))
 
-WebUI.click(findTestObject('Orange HRM/Add Admin/Page_OrangeHRM/Page 3 add user'))
+WebUI.click(findTestObject('Orange HRM/Add/Page/Page 3 add user'))
 
-WebUI.click(findTestObject('Orange HRM/Add Admin/Page_OrangeHRM/Box User Role'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Orange HRM/Add/Page/Box User Role'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Orange HRM/Add Admin/Page_OrangeHRM/Box value user'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Orange HRM/Add/Page/Box value user'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Orange HRM/Add Admin/Page_OrangeHRM/Box Status'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Orange HRM/Add/Page/Box Status'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Orange HRM/Add Admin/Page_OrangeHRM/Box Status enable'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Orange HRM/Add/Page/Box Status enable'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Orange HRM/Add Admin/Page_OrangeHRM/employee name 1'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Orange HRM/Add/Page/employee name 1'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Orange HRM/Add Admin/Page_OrangeHRM/input Username'), 'Raina19281')
+WebUI.setText(findTestObject('Orange HRM/Add/Page/input Username'), 'Raina19281')
 
-WebUI.setEncryptedText(findTestObject('Orange HRM/Add Admin/Page_OrangeHRM/input_Password'), 'kK4cJLsnh+DwHsj9IzvPHw==')
+WebUI.setEncryptedText(findTestObject('Orange HRM/Add/Page/input_Password'), 'kK4cJLsnh+DwHsj9IzvPHw==')
 
-WebUI.setEncryptedText(findTestObject('Orange HRM/Add Admin/Page_OrangeHRM/input_Confirm Password'), 'kK4cJLsnh+DwHsj9IzvPHw==')
+WebUI.setEncryptedText(findTestObject('Orange HRM/Add/Page/input_Confirm Password'), 'kK4cJLsnh+DwHsj9IzvPHw==')
 
-WebUI.click(findTestObject('Orange HRM/Add Admin/Page_OrangeHRM/button_Save'))
+WebUI.click(findTestObject('Orange HRM/Add/Page/button_Save'))
 
-WebUI.verifyElementPresent(findTestObject('Orange HRM/Add Admin/Page_OrangeHRM/div_SuccessSuccessfully Saved'), 0)
+WebUI.verifyElementPresent(findTestObject('Orange HRM/Add/Page/div_SuccessSuccessfully Saved'), 0)
 

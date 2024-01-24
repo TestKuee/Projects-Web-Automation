@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Page Login</name>
+   <name>Pg Login</name>
    <tag></tag>
    <elementGuidId>590ae876-aed0-4c19-9b67-c2726ebedbee</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/div/div/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.orangehrm-login-slot-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

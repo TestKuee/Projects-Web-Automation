@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button Profile</name>
+   <name>BtnProfile</name>
    <tag></tag>
    <elementGuidId>c60c9f71-b4a7-4377-a7e9-6e3dcf085b8b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.oxd-userdropdown-tab</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

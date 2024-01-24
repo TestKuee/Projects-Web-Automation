@@ -15,21 +15,14 @@
       <guid>8dad8dfb-0a89-49ee-bd4e-59fb23a29e1b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Orange - LoginFail</testCaseId>
+      <testCaseId>Test Cases/Org_LGFail</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>9ae0f8be-2cf4-4c62-94d1-9d2870f833a9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Orange - Loginpass</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>e5aba814-76f2-4a2e-a9c8-9b03cac51efc</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Orange - Logout</testCaseId>
+      <testCaseId>Test Cases/Org-LGpass</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
