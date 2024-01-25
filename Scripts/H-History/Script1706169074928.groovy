@@ -29,5 +29,7 @@ WebUI.click(findTestObject('HURA CLINIC/Menu History/Page_CURA Healthcare Servic
 
 WebUI.delay(3)
 
+WebUI.takeScreenshotAsCheckpoint('')
+
 WebUI.click(findTestObject('HURA CLINIC/Menu History/Page_CURA Healthcare Service/a_Go to Homepage'))
 

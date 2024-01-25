@@ -44,6 +44,8 @@ for (def n : (0..2)) {
 
     WebUI.click(findTestObject('HURA CLINIC/Page1/Appointment'))
 
+    WebUI.takeScreenshotAsCheckpoint('')
+
     WebUI.click(findTestObject('HURA CLINIC/Page1/Homepage'))
 }
 
