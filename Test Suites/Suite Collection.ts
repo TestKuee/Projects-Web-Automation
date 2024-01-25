@@ -11,18 +11,23 @@
          <configuration>
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
-            <requireConfigurationData>false</requireConfigurationData>
-            <runConfigurationId>Chrome</runConfigurationId>
-         </configuration>
-         <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/E-Learning</testSuiteEntity>
-      </TestSuiteRunConfiguration>
-      <TestSuiteRunConfiguration>
-         <configuration>
-            <groupName>Web Desktop</groupName>
-            <profileName>default</profileName>
-            <requireConfigurationData>false</requireConfigurationData>
-            <runConfigurationId>Chrome</runConfigurationId>
+            <requireConfigurationData>true</requireConfigurationData>
+            <runConfigurationData>
+               <entry>
+                  <key>testCloudEnvironment</key>
+                  <value>{
+  &quot;id&quot;: 298,
+  &quot;osDisplayName&quot;: &quot;Windows&quot;,
+  &quot;browserName&quot;: &quot;chrome&quot;,
+  &quot;browserDisplayName&quot;: &quot;Chrome&quot;,
+  &quot;browserVersion&quot;: &quot;119&quot;,
+  &quot;os&quot;: &quot;windows&quot;,
+  &quot;timeout&quot;: 15,
+  &quot;usingTunnel&quot;: false
+}</value>
+               </entry>
+            </runConfigurationData>
+            <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/HURA</testSuiteEntity>
@@ -31,8 +36,23 @@
          <configuration>
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
-            <requireConfigurationData>false</requireConfigurationData>
-            <runConfigurationId>Chrome</runConfigurationId>
+            <requireConfigurationData>true</requireConfigurationData>
+            <runConfigurationData>
+               <entry>
+                  <key>testCloudEnvironment</key>
+                  <value>{
+  &quot;id&quot;: 299,
+  &quot;osDisplayName&quot;: &quot;Windows&quot;,
+  &quot;browserName&quot;: &quot;firefox&quot;,
+  &quot;browserDisplayName&quot;: &quot;Firefox&quot;,
+  &quot;browserVersion&quot;: &quot;119&quot;,
+  &quot;os&quot;: &quot;windows&quot;,
+  &quot;timeout&quot;: 15,
+  &quot;usingTunnel&quot;: false
+}</value>
+               </entry>
+            </runConfigurationData>
+            <runConfigurationId>TestCloud</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/Orange</testSuiteEntity>
