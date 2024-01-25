@@ -29,5 +29,5 @@ WebUI.setEncryptedText(findTestObject('HURA CLINIC/Page1/password'), 'g3/DOGG74j
 
 WebUI.click(findTestObject('HURA CLINIC/Page1/Login'))
 
-WebUI.takeScreenshotAsCheckpoint('')
+WebUI.takeScreenshotAsCheckpoint('Success')
 

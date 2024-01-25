@@ -27,5 +27,7 @@ WebUI.setEncryptedText(findTestObject('Orange HRM/Login Logout/Page/Pass'), 'hUK
 
 WebUI.click(findTestObject('Orange HRM/Login Logout/Page/btn_Login'))
 
-WebUI.takeElementScreenshotAsCheckpoint('', findTestObject(null))
+WebUI.delay(1)
+
+WebUI.takeScreenshotAsCheckpoint('Pass', FailureHandling.STOP_ON_FAILURE)
 

@@ -23,9 +23,9 @@ WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
 
 WebUI.setText(findTestObject('Orange HRM/Login Logout/Page/username'), 'Admin')
 
-WebUI.setEncryptedText(findTestObject('Orange HRM/Login Logout/Page/Pass'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+WebUI.setEncryptedText(findTestObject('Orange HRM/Login Logout/Page/Pass'), 'RCX4XvILYStwd9OXSVCEow==')
 
 WebUI.click(findTestObject('Orange HRM/Login Logout/Page/btn_Login'))
 
-WebUI.takeElementScreenshotAsCheckpoint('', findTestObject(null))
+WebUI.takeScreenshotAsCheckpoint('Fail', FailureHandling.STOP_ON_FAILURE)
 
