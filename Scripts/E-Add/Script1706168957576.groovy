@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('E-Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Elearning/Page3/a_Master Elearning'))
+WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('null'))
 
